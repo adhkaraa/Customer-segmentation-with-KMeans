@@ -1,5 +1,3 @@
-# Customer-segmentation-with-KMeans
-
 # Customer Segmentation with K-Means
 
 This project applies K-Means Clustering to segment customers based on purchasing behavior and demographic features. The objective is to identify distinct customer groups to support more effective marketing strategies.
