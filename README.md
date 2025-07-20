@@ -30,9 +30,3 @@ This project applies K-Means Clustering to segment customers based on purchasing
 
 - Code: English
 - Report: Indonesian
-
-## 🙋 Author
-
-Adha Karamina Achmad  
-Statistics Graduate | Data Enthusiast  
-[GitHub Profile](https://github.com/adhkaraa)
