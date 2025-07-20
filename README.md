@@ -26,6 +26,9 @@ This project applies K-Means Clustering to segment customers based on purchasing
 - Help businesses create targeted marketing strategies.
 - Improve customer engagement and retention through personalized approaches.
 
+## [Dashboard](https://drive.google.com/file/d/1sdhlRohxHZUarhzepCcVB6d17n9aU7dP/view)
+this is visualizes supermarket sales data dashboard to track revenue, profit, and customer behavior using PowerBI. It highlights top-performing products, payment preferences, and rating insights to support strategic decisions.
+
 ## 🗣️ Language
 
 - Code: English
